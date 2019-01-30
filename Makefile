@@ -6,11 +6,11 @@
 #    By: conoel <conoel@student.42.fr>              +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2019/01/10 21:14:13 by conoel            #+#    #+#              #
-#    Updated: 2019/01/15 13:28:50 by conoel           ###   ########.fr        #
+#    Updated: 2019/01/30 20:25:34 by conoel           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-NAME = push_swap_selection
+NAME = push_swap_selection_opti
 
 NAME2 = checker
 

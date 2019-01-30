@@ -6,7 +6,7 @@
 /*   By: conoel <conoel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/01/07 16:54:56 by conoel            #+#    #+#             */
-/*   Updated: 2019/01/15 13:32:14 by conoel           ###   ########.fr       */
+/*   Updated: 2019/01/30 20:29:32 by conoel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,6 +17,7 @@
 # include <strings.h>
 # include <stdlib.h>
 # include <stdio.h>
+# include "../libft/libft.a"
 
 typedef struct		s_elem
 {
